@@ -1,0 +1,25 @@
+{
+  "name": "sixstreet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letsbicycle/six-street.git"
+  },
+  "author": "Andrey Kobzar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letsbicycle/six-street/issues"
+  },
+  "homepage": "https://github.com/letsbicycle/six-street#readme",
+  "dependencies": {
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^22.2.0",
+    "imap": "^0.8.19",
+    "xoauth2": "^1.2.0"
+  }
+}
